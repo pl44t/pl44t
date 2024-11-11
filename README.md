@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Many useful webuis that can be self hosted**
 
-- 🌱 I’m currently learning **Many different languages**
+- 🌱 I’m currently learning **Several different languages**
 
 - 🤝 I’m looking for help with **Ideas for more webuis**
 
